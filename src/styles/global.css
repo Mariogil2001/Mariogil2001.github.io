@@ -12,7 +12,7 @@ body {
 
 /* Headings */
 h1, h2 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Alegreya', cursive;
     font-weight: normal;
 }
 
@@ -53,7 +53,7 @@ p {
 }
 
 .title-link, .nav-links {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Alegreya', cursive;
     font-size: 1.3rem;
 }
 
