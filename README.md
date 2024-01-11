@@ -30,7 +30,7 @@ Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
 | `npm run astro --help`  | Obtienes ayuda de astro                           |
 
 Si quieres moverte entre ficheros en el terminal puedes usar `ls` para ver directorios,
-`cd` para entrar en ellos y `cd..` para retroceder.
+`cd` para entrar en ellos y `cd..` para retroceder y si quieres abrir la carpeta en la que este con `code .`.
 
 Para hacer que funcione he tenido que usar una configuración especial que la puedes encontrar aqui [Guia Astro y Github Pages](https://docs.astro.build/es/guides/deploy/github/).
 ## Construido con 🛠️
