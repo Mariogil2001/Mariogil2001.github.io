@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownWorksLayout.astro
+title: 'Analisis con TradingView'
+description: 'Proyecto para analizar tickers con la api de tradingview'
+image:
+    url: '/AnalisisAAPL.webp'
+    alt: 'Analasis de stock'
+worksImage1:
+    url: '/AnalisisAAPL.webp'
+    alt: 'first image of your project.'
+worksImage2:
+    url: '/AnalisisBTC.webp'
+    alt: 'second image of your project.'
+platform: Terminal
+stack: Python
+github: https://github.com/Mariogil2001/Learn-Python-3
+---
+
+Proyecto para analizar tickers con la api de tradingview, se le pide al usuario el ticker, pais y bolsa del valor a analizar, puede ser criptomoneda o stock.
+Si no sabe algun dato concreto se facilita una pagina web para realizar una consulta. Si es una criptomoneda se usará la api de Yahoo finanzas.
