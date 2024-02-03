@@ -12,7 +12,7 @@ platform: Processing
 stack: Java
 github: https://github.com/Mariogil2001/ejercicios_simulacion
 
-MontanaRusa: 'Simular el movimiento de una partícula que se mueve a tramos de velocidad (ej. con pendientes distintas en cada tramo y velocidades en función de las pendientes). Además añadir aceleración en los tramos.
+MontanaRusa: 'Simula el movimiento de una partícula que se mueve a tramos de velocidad (ej. con pendientes distintas en cada tramo y velocidades en función de las pendientes). Además añadido aceleración en los tramos.
 '
 ---
 
