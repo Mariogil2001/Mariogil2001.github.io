@@ -19,6 +19,12 @@ const { frontmatter } = Astro.props;
             <img width="100%" height="100%" src={frontmatter.worksImage1.url} alt={frontmatter.worksImage1.alt} />
         </a>
     </div>
+    <p>{frontmatter.MovimientoCircular}</p>
+    <div class="img">
+        <a href="https://github.com/Mariogil2001/ejercicios_simulacion/blob/main/src/Tema_1/MovimientoCircular/MovimientoCircular.md" target="_blank">
+            <img width="100%" height="100%" src={frontmatter.worksImage2.url} alt={frontmatter.worksImage2.alt} />
+        </a>
+    </div>
     
 </BaseLayout>
 <style>

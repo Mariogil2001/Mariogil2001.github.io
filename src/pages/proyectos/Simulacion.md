@@ -14,5 +14,10 @@ github: https://github.com/Mariogil2001/ejercicios_simulacion
 
 MontanaRusa: 'Simula el movimiento de una partícula que se mueve a tramos de velocidad (ej. con pendientes distintas en cada tramo y velocidades en función de las pendientes). Además añadido aceleración en los tramos.
 '
+MovimientoCircular: 'Simula el movimiento de una bola alrededor de un punto situado a una distancia r de la bola. Da una vuelta por segundo.'
+
+worksImage2:
+    url: '/MovimientoCircular.webp'
+    alt: 'MovimientoCircuclar imagen'
 ---
 
