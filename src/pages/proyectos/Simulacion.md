@@ -4,7 +4,7 @@ title: 'Ejercicios de Simulacion' #Necesaria
 description: 'Proyectos para la asignatura de Simulacion' # Necesario
 image:
     url: '/MontanaRusa.webp' # Necesaria para la presentacion
-    alt: 'Presentacion simulacion'
+    alt: 'Presentacion simulación'
 worksImage1:
     url: '/MontanaRusa.webp'
     alt: 'Montana Rusa imagen'
