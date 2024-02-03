@@ -1,16 +1,16 @@
 ---
-layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Analisis con TradingView'
-description: 'Proyecto para analizar tickers con la api de tradingview'
+layout: ../../layouts/MarkdownWorksLayout.astro # A donde hace referencia
+title: 'Analisis con TradingView' #Necesaria
+description: 'Proyecto para analizar tickers con la api de tradingview' # Necesario
 image:
-    url: '/AnalisisAAPL.webp'
-    alt: 'Analasis de stock'
+    url: '/AnalisisAAPL.webp' # Necesaria para la presentacion
+    alt: 'Analisis de stock'
 worksImage1:
     url: '/AnalisisAAPL.webp'
-    alt: 'first image of your project.'
+    alt: 'Primera imagen de Analisis'
 worksImage2:
     url: '/AnalisisBTC.webp'
-    alt: 'second image of your project.'
+    alt: 'Segunda imagen de Analisis'
 platform: Terminal
 stack: Python
 github: https://github.com/Mariogil2001/Learn-Python-3
