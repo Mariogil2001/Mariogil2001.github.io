@@ -19,5 +19,15 @@ MovimientoCircular: 'Simula el movimiento de una bola alrededor de un punto situ
 worksImage2:
     url: '/MovimientoCircular.webp'
     alt: 'MovimientoCircuclar imagen'
+
+MovimientoOscilatorio: 'Anima el movimiento de una particula a velocidad v sobre l función osciladora.'
+worksImage3:
+    url: '/MovimientoOscilatorio.webp'
+    alt: 'Movimiento Oscilatorio imagen'
+
+Bubble_shooter: 'Hecho un bubble-shooter sencillo (lanzador de bolas con velocidad constante).'
+worksImage4:
+    url: '/Bubble_shooter.webp'
+    alt: 'Bubble shooter imagen'
 ---
 
